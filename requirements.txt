@@ -1,0 +1,4 @@
+User stories:
+- as a User I want to see my spending list (description, amount, time)
+- as a User I want to be able to add costs
+
