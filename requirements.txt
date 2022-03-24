@@ -1,4 +1,11 @@
 User stories:
 - as a User I want to see my spending list (description, amount, time)
 - as a User I want to be able to add costs
+- As a User I want to see all of added cost as a list with description, cost, time and balance;
+- As a User I want to see sum of all expanses;
+- As a User I want to see balance of acount after all expanses;
+
+As admin / programmer:
+- As a programmer I want to create function to add innitial budget value
+- As a programmer I want to create function to add spendings to the budget list
 - 
