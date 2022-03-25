@@ -11,11 +11,11 @@ var expenses = [
 ]
 
 let initialBudget = () => {
-    let l = document.getElementById("expensesList");
+    let list = document.getElementById("expensesList");
     for (let counter = 0; counter < expenses.length; counter++) {
         let newExpens = document.createElement("li");
         newExpens.innerText = expenses[counter].description + expenses[counter].cost;
-        l.appendChild(newExpens);
+        list.appendChild(newExpens);
     }
 }
 
